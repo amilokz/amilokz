@@ -116,7 +116,7 @@ Projects  : 20+ Completed
 
 <!-- Using ryo-ma trophy with no-bg and increased column for stability -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amilokz&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-zeta-drab.vercel.app/?username=amilokz&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
 </div>
 
 ---
