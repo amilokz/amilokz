@@ -90,10 +90,28 @@ Projects  : 20+ Completed
 
 ## 📊 GitHub Analytics
 
-<!-- Using readme-stats with cache_seconds=86400 to reduce rate limit hits -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amilokz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilokz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=10"/>
+  
+| 📈 Metric | 📊 Stats |
+|-----------|----------|
+| **Total Stars** | ![GitHub Stars](https://img.shields.io/github/stars/amilokz?style=for-the-badge&logo=github&color=ffd700&logoColor=white&label=⭐%20STARS) |
+| **Total Forks** | ![GitHub Forks](https://img.shields.io/github/forks/amilokz?style=for-the-badge&logo=github&color=ff6b6b&logoColor=white&label=🍴%20FORKS) |
+| **Followers** | ![GitHub Followers](https://img.shields.io/github/followers/amilokz?style=for-the-badge&logo=github&color=7c3aed&logoColor=white&label=👥%20FOLLOWERS) |
+| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=amilokz&style=for-the-badge&color=7c3aed&label=👁️%20VIEWS) |
+| **Repositories** | ![Repos](https://img.shields.io/badge/📦_REPOS-20+-7c3aed?style=for-the-badge) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amilokz&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amilokz&theme=tokyo-night&hide_border=true&area=true&point=a78bfa&line=7c3aed&area_color=a78bfa&bg_color=0d1117&radius=8" width="100%"/>
 </div>
 
 <br/>
