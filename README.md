@@ -104,4 +104,4 @@ PHP JavaScript
 ⚡ Fun Fact
 javascript
 console.log("Did you know? I built an AI ChatBot that responds in milliseconds! 🤖✨");
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/> </div><div align="center"> <b>⭐ If you like my work, consider giving a star to my repositories! ⭐</b> <br/><br/> <i>© 2025 Komil Hassan | Full Stack Developer</i> </div> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/> </div><div align="center"> <b>⭐ If you like my work, consider giving a star to my repositories! ⭐</b> <br/><br/> <i>© 2025 Komil Hassan | Full Stack Developer</i> </div> 
