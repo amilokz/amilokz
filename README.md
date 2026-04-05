@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-```javascript
+
 const komil = {
   name: "Komil Hassan",
   role: "Full Stack Developer",
