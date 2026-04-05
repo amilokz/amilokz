@@ -24,7 +24,6 @@ const komil = {
   funFact: "I can talk about space and coding for hours! 🚀"
 };
 🛠️ Tech Stack
-<div align="center">
 🎨 Frontend
 https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white
@@ -32,8 +31,8 @@ https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&log
 https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/HTML5-E34F26?style-for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style-for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
 ⚙️ Backend
 https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
@@ -55,7 +54,6 @@ https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-stud
 https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 
-</div>
 📊 GitHub Analytics
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amilokz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilokz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amilokz&theme=tokyonight&hide_border=true"/> </div>
@@ -63,23 +61,47 @@ https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoC
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amilokz&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/> </div>
 🚀 Featured Projects
-<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">🎨 Interactive Portfolio</h3> <p align="center"> <a href="https://amilokz.github.io/my-portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Live_Demo-00cfff?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://github.com/amilokz/my-portfolio" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center">Interactive 3D portfolio with AI ChatBot, Voice Commands, and Solar System background</p> <p align="center"> <code>React</code> <code>Three.js</code> <code>Framer Motion</code> </p> </td> <td width="50%"> <h3 align="center">📄 SERP Portal</h3> <p align="center"> <a href="https://serpproject.42web.io/" target="_blank"> <img src="https://img.shields.io/badge/Live_Demo-00cfff?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://github.com/amilokz" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center">Complete employee record management system with roles and authentication</p> <p align="center"> <code>Laravel</code> <code>PHP</code> <code>MySQL</code> </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">🎨 Echo World</h3> <p align="center"> <a href="https://echo-world-alpha.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Live_Demo-00cfff?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://github.com/amilokz" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center">Modern animated UI/UX website with smooth transitions</p> <p align="center"> <code>React</code> <code>Tailwind CSS</code> </p> </td> <td width="50%"> <h3 align="center">📄 FlexiPDF</h3> <p align="center"> <a href="https://flexipdf.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Live_Demo-00cfff?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://github.com/amilokz" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center">PDF manipulation tool for merging and compression</p> <p align="center"> <code>PHP</code> <code>JavaScript</code> </p> </td> </tr> </table> </div>
+🎨 Interactive Portfolio
+https://img.shields.io/badge/Live_Demo-00cfff?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
+Interactive 3D portfolio with AI ChatBot, Voice Commands, and Solar System background
+
+React Three.js Framer Motion
+
+📄 SERP Portal
+https://img.shields.io/badge/Live_Demo-00cfff?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
+Complete employee record management system with roles and authentication
+
+Laravel PHP MySQL
+
+🎨 Echo World
+https://img.shields.io/badge/Live_Demo-00cfff?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style-for-the-badge&logo=github&logoColor=white
+
+Modern animated UI/UX website with smooth transitions
+
+React Tailwind CSS
+
+📄 FlexiPDF
+https://img.shields.io/badge/Live_Demo-00cfff?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
+PDF manipulation tool for merging and compression
+
+PHP JavaScript
+
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amilokz&theme=tokyo-night&hide_border=true&area=true&point=00cfff&line=8b5cf6" width="100%"/> </div>
-🎯 Current Stats
-<div align="center">
-📅 Daily Commit	⭐ Total Stars	🍴 Total Forks	👥 Followers
-<img src="https://komarev.com/ghpvc/?username=amilokz&color=00cfff&style=flat-square" />	<img src="https://img.shields.io/github/stars/amilokz?style=flat-square&color=f59e0b" />	<img src="https://img.shields.io/github/forks/amilokz?style=flat-square&color=8b5cf6" />	<img src="https://img.shields.io/github/followers/amilokz?style=flat-square&color=00cfff" />
-</div>
 🤝 Let's Connect
-<div align="center"> <a href="https://amilokz.github.io/my-portfolio/"> <img src="https://img.shields.io/badge/🌐_Portfolio-00cfff?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/komil-hassan-a97b66282"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/amilokz"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:amilokz1@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://twitter.com/amilokz"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a></div>
+<div align="center"> <a href="https://amilokz.github.io/my-portfolio/"> <img src="https://img.shields.io/badge/🌐_Portfolio-00cfff?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/komil-hassan-a97b66282"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/amilokz"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:amilokz1@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://twitter.com/amilokz"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> </div>
 💬 Quote of the Day
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/></div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/> </div>
 📱 Visitor Count
 <div align="center"> <img src="https://profile-counter.glitch.me/amilokz/count.svg" /> <p><i>👆 Total Profile Views</i></p> </div>
 ⚡ Fun Fact
-<div align="center">
 javascript
 console.log("Did you know? I built an AI ChatBot that responds in milliseconds! 🤖✨");
-</div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/> </div><div align="center"> <b>⭐ If you like my work, consider giving a star to my repositories! ⭐</b> <br/><br/> <i>© 2025 Komil Hassan | Full Stack Developer</i> </div> ```
