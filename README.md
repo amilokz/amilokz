@@ -115,7 +115,23 @@ Projects  : 20+ Completed
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amilokz&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amilokz&theme=darkhub&no-frame=true&column=3&margin-w=10)
+
+<br/>
+
+<details>
+<summary>📊 Click to see detailed stats</summary>
+<br/>
+
+| Rank | Category | Count |
+|------|----------|-------|
+| 🥇 | Stars Earned | ![GitHub stars](https://img.shields.io/github/stars/amilokz?style=flat-square&color=ffd700) |
+| 🥈 | Followers | ![GitHub followers](https://img.shields.io/github/followers/amilokz?style=flat-square&color=7c3aed) |
+| 🥉 | Repositories | ![Repos Badge](https://img.shields.io/badge/Repos-20+-7c3aed?style=flat-square) |
+
+</details>
+
 </div>
 
 <div align="center">
