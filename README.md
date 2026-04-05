@@ -3,12 +3,12 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Komil%20Hassan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20React%20%7C%203D%20Web&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=🚀+Building+The+Future..." />font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=🚀+Building+The+Future%2C+One+Line+at+a+Time;⚡+React+%7C+Laravel+%7C+Three.js+Expert;🌌+3D+Web+%26+AI+Enthusiast;🎨+UI%2FUX+Craftsman+%26+Open+Source+Lover;💡+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<!-- TYPING ANIMATION — using herokuapp (more reliable than demolab) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=🚀+Building+The+Future%2C+One+Line+at+a+Time;⚡+React+%7C+Laravel+%7C+Three.js+Expert;🌌+3D+Web+%26+AI+Enthusiast;🎨+UI%2FUX+Craftsman+%26+Open+Source+Lover;💡+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 <br/>
 
-<!-- BADGES -->
+<!-- VISITOR COUNTER — komarev.com (most reliable, no sleep) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=amilokz&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/amilokz?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)
 ![GitHub stars](https://img.shields.io/github/stars/amilokz?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=TOTAL+STARS)
@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🧑‍🚀 About Me
 
@@ -90,15 +90,22 @@ Projects  : 20+ Completed
 
 ## 📊 GitHub Analytics
 
+<!-- Using readme-stats with cache_seconds=86400 to reduce rate limit hits -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amilokz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilokz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amilokz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilokz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=10"/>
 </div>
 
+<br/>
+
+<!-- Streak stats — using git.io/streak-stats (most stable streak provider) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amilokz&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa"/>
+  <img src="https://streak-stats.demolab.com?user=amilokz&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&border_radius=10" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
+<!-- Profile summary cards -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amilokz&theme=tokyonight" width="100%"/>
 </div>
@@ -107,8 +114,9 @@ Projects  : 20+ Completed
 
 ## 🏆 GitHub Trophies
 
+<!-- Using ryo-ma trophy with no-bg and increased column for stability -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amilokz&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amilokz&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -169,7 +177,7 @@ Projects  : 20+ Completed
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amilokz&theme=tokyo-night&hide_border=true&area=true&point=a78bfa&line=7c3aed&area_color=a78bfa&bg_color=0d1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amilokz&theme=tokyo-night&hide_border=true&area=true&point=a78bfa&line=7c3aed&area_color=a78bfa&bg_color=0d1117&radius=8" width="100%"/>
 </div>
 
 ---
@@ -202,9 +210,10 @@ Figma / UI Design    ███████████████████�
 </div>
 
 <details>
-<summary>⚙️ How to enable the snake animation</summary>
+<summary>⚙️ Click here — How to enable the snake animation</summary>
+<br/>
 
-Create `.github/workflows/snake.yml` in your profile repo with this content:
+Create this file in your profile repo: `.github/workflows/snake.yml`
 
 ```yaml
 name: Generate Snake
@@ -232,6 +241,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+Then go to **Settings → Actions → General → Workflow permissions** and enable **Read and write permissions**.
+
 </details>
 
 ---
@@ -254,15 +265,6 @@ jobs:
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
-</div>
-
----
-
-## 📱 Visitor Counter
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/amilokz/count.svg"/>
-  <p><i>✨ Thanks for visiting my profile! ✨</i></p>
 </div>
 
 ---
