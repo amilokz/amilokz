@@ -187,13 +187,12 @@ const komil = {
   <p><i>👆 Total Profile Views</i></p>
 </div>
 
----
+
 
 ## ⚡ Fun Fact
 
-```javascript
 console.log("Did you know? I built an AI ChatBot that responds in milliseconds! 🤖✨");
-```
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/>
