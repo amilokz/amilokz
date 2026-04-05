@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Komil%20Hassan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20React%20%7C%203D%20Web&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=🚀+Building+The+Future%2C+One+Line+at+a+Time;⚡+React+%7C+Laravel+%7C+Three.js+Expert;🌌+3D+Web+%26+AI+Enthusiast;🎨+UI%2FUX+Craftsman+%26+Open+Source+Lover;💡+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=🚀+Building+The+Future..." />font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=🚀+Building+The+Future%2C+One+Line+at+a+Time;⚡+React+%7C+Laravel+%7C+Three.js+Expert;🌌+3D+Web+%26+AI+Enthusiast;🎨+UI%2FUX+Craftsman+%26+Open+Source+Lover;💡+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 <br/>
 
