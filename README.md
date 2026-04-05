@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-```javascript
+
 const komil = {
   name: "Komil Hassan",
   role: "Full Stack Developer",
@@ -79,7 +79,7 @@ Laravel PHP MySQL
 
 🎨 Echo World
 https://img.shields.io/badge/Live_Demo-00cfff?style=for-the-badge&logo=vercel&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style-for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 
 Modern animated UI/UX website with smooth transitions
 
