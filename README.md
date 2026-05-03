@@ -31,7 +31,7 @@ Projects  : 20+ Completed
 
 - 🔭 Currently building **3D interactive web experiences**
 - 🌱 Learning **Next.js · TypeScript · GraphQL · AWS**
-- 💼 Specializing in **React, Laravel & Three.js**
+- 💼 Skill in **React, Laravel & Three.js**
 - 🎨 Passionate about **UI/UX Design & Open Source**
 - 🤖 Built an **AI ChatBot** with voice commands
 - 🌌 Space nerd who codes at **3 AM** 🚀
